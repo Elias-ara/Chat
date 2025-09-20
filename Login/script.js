@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         alert("Dados de inscrição salvos com sucesso!");
 
-        window.location.href = "/chat/chat.html";
+        window.location.href = "/online-chat-project/src/index.html";
 
         return response.json();
       });
